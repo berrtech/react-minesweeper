@@ -1,0 +1,11 @@
+.idea
+node_modules
+bower_components
+dist
+css
+.sass-cache
+config.js
+bundle.js
+bundle.js.map
+.vscode
+npm-debug.log
